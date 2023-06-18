@@ -23,7 +23,7 @@ export default function Login() {
     <div className='login'>
         <div className="image"></div>
         <div className="logincontent">
-            <h1 className='top_line'>Create A Profile And Learn And Teach Etiquettes</h1>
+            <h1 className='top_line'>Create A Profile And Transform Tomorrow</h1>
             <button onClick={signInWithGoogle} className="btn">Sign In With Google</button>
 
         </div>
